@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  display: flex;
+  gap: 2em;
+}
+.column {
+  background: #f0f0f0;
+  padding: 1em;
+  flex: 1;
+  border-radius: 8px;
+}

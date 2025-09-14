@@ -1,0 +1,10 @@
+ul, ol, dl {
+  margin-bottom: 1em;
+}
+dt {
+  font-weight: bold;
+  color: #007acc;
+}
+dd {
+  margin-left: 1em;
+}
