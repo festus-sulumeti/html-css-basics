@@ -21,5 +21,6 @@ Welcome! This beginner-friendly course will teach you the fundamentals of HTML a
 7. [CSS Basics](./lessons/07-css-basics/index.html)
 8. [CSS Flexbox](./lessons/08-css-flexbox/index.html)
 9. [CSS Grid](./lessons/09-css-grid/index.html)
-10. [Layouts](./lessons/10-layouts/index.html)
-11. [Final Project: Portfolio Website](./lessons/11-final-project/index.html)
+10. [Media & Responsiveness](./lessons/10-media-responsiveness/index.html)
+11. [Layouts](./lessons/11-layouts/index.html)
+12. [Final Project: Portfolio Website](./lessons/12-final-project/index.html)

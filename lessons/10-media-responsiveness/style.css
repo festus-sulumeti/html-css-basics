@@ -1,0 +1,17 @@
+body {
+  background: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em 0;
+}
+
+@media (max-width: 600px) {
+  body {
+    background: #ffe0e0;
+  }
+}
