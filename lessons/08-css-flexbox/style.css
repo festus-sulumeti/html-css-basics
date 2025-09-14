@@ -1,0 +1,18 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  height: 200px;
+  background: #e0f7fa;
+}
+.box {
+  background: #007acc;
+  color: #fff;
+  padding: 2em;
+  border-radius: 8px;
+  font-size: 1.2em;
+  flex: 1 1 0;
+  text-align: center;
+}
